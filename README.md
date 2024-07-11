@@ -52,3 +52,4 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Gastón Gaitan
